@@ -1,2 +1,2 @@
 # ServerAdminScripts
-Used for common day to day admin of servers
+Used for common day to day admin of servers.
